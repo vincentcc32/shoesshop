@@ -1,0 +1,13 @@
+{
+    "name": "forgotpassword/shoesshop",
+    "description": "send code to email",
+    "authors": [
+        {
+            "name": "shoesshop"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
